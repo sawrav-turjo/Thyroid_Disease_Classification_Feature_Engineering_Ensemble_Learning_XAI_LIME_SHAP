@@ -1,0 +1,2 @@
+# Thyroid_Disease_Classification_Feature_Engineering_Ensemble_Learning_XAI_LIME_SHAP
+This project presents a leakage-safe explainable machine-learning framework for five-class thyroid disease classification using Bangladesh clinical data. It combines VT–MI-based feature selection, ensemble classifiers, and SHAP/LIME interpretability to support transparent, reliable, and clinically meaningful decision-making.
